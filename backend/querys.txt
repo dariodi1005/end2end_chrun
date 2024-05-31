@@ -1,0 +1,6 @@
+http://127.0.0.1:5000/api/predict/?dayCharge=20.5&eveCharge=15.3&nightCharge=10.4&intlCharge=5.6&dayCalls=100&eveCalls=80&nightCalls=60&intlCalls=20&dayMinutes=200.0&eveMinutes=180.0&nightMinutes=150.0&intlMinutes=50.0&customerServiceCalls=3&internationalPlan=1&numberVmailMessages=10
+
+/api/predict/?dayCharge=20.5&eveCharge=15.3&nightCharge=10.4&intlCharge=5.6&dayCalls=100&eveCalls=80&nightCalls=60&intlCalls=20&dayMinutes=200.0&eveMinutes=180.0&nightMinutes=150.0&intlMinutes=50.0&customerServiceCalls=3&internationalPlan=1&numberVmailMessages=10
+
+
+https://main--funny-strudel-1d215b.netlify.app/
