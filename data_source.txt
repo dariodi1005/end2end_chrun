@@ -1,5 +1,6 @@
 income_data:
 https://www.cnbc.com/2024/04/14/median-annual-income-in-every-us-state.html
+https://www.bls.gov/web/laus/laumstrk.htm
 
 churn:
 https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
